@@ -1,6 +1,6 @@
-## Welcome to the DIY Surveys
+## Welcome to the DIY Surveys API
 
-Welcome to the DIY Surveys API Documentation. This is for general use of DIY Surveys Open API. Using this RESTful API you can send and receive SMS messages, track the delivery of sent messages, retrieve the message history, manage keywords and surveys.
+Welcome to the DIY Surveys API. This is for general use of DIY Surveys Open API. Using this RESTful API you can send and receive SMS messages, track the delivery of sent messages, retrieve the message history, manage keywords and surveys.
 
 Check our [Getting Started](https://apidocs.diysurveys.com/gettingstarted) Guide to help you.
 
